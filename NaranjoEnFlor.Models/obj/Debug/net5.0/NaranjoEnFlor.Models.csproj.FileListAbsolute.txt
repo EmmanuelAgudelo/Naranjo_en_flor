@@ -1,0 +1,46 @@
+C:\Users\User\source\repos\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.deps.json
+C:\Users\User\source\repos\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\source\repos\NaranjoEnFlor.Models\bin\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\source\repos\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\source\repos\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.deps.json
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.deps.json
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\User\OneDrive\Escritorio\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\User\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.deps.json
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\bin\Debug\net5.0\NaranjoEnFlor.Models.pdb
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.AssemblyInfo.cs
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.dll
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\ref\NaranjoEnFlor.Models.dll
+C:\Users\johan\Desktop\Naranjo en flor\NaranjoEnFlor.Models\obj\Debug\net5.0\NaranjoEnFlor.Models.pdb
